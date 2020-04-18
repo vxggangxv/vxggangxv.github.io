@@ -268,7 +268,22 @@ img {max-width: 100%;}
 .section3 .content h1 > .big {font-size: 80px;}
 .section3 .smBox-area {box-sizing: border-box;}
 .section3 .smBox-area > .row + .row {margin-top: 20px;}
+.section3 .smBox-area .smBox .p-url,
+.section3 .smBox-area .smBox .portfolio-link {
+    font-family: 'Noto Sans KR', sans-serif; font-size: 12px; font-weight: 300;
+}
 .section3 .smBox-area .smBox .p-url {font-size: 11px;}
+.section3 .smBox-area .smBox .portfolio-link {margin-top: 15px;}
+.section3 .smBox-area .smBox .portfolio-link .link-btn {
+    display: inline-block;
+    padding: 3px 5px; 
+    /* border: 1px solid #ddd;  */
+    /* background: #efefef;  */
+    background: #F2C847; 
+    border-radius: 2px;
+    color: #ffffff;
+    cursor: pointer;
+}
 .section3 .smBox-area .smBox {position: relative; float: left; width: 215px; margin-left: 20px; box-sizing: border-box; height: 215px; overflow: hidden;
 	-webkit-transition: all 0.3s;
 	-o-transition: all 0.3s;
@@ -278,10 +293,10 @@ img {max-width: 100%;}
 .section3 .smBox-area .smBox-1,
 .section3 .smBox-area .smBox-2 {border: 0;}
 .section3 .smBox-area .smBox:first-child {margin-left: 0;}
-.section3 .smBox-area .smBox a {display: block;}
+.section3 .smBox-area .smBox .stack-item {display: block;}
 .section3 .smBox-area .smBox-2 {line-height: 1.6;}
-.section3 .smBox-area .smBox-2 a {cursor: default; font-size: 14px;}
-.section3 .smBox-area .smBox-2 a:first-child {font-size: 22px;}
+.section3 .smBox-area .smBox-2 .stack-item {cursor: default; font-size: 14px;}
+.section3 .smBox-area .smBox-2 .stack-item:first-child {font-size: 22px;}
 
 .section3 .smBox-area .effect {
 	-webkit-box-shadow: 0 2px 4px 2px rgba(0,0,0, .065);
