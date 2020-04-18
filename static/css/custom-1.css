@@ -50,10 +50,13 @@ table {
 /* Custom CSS
  * --------------------------------------- */
 body{
-	font-family: 'Lato', "Nanum Gothic" , Calibri, Arial, sans-serif;
+	font-family: 'Lato', Calibri, Arial, sans-serif;
 /*	font-family: Calibri, Arial, sans-serif;*/
 /*	font-family: Arial, sans-serif;*/
 	color: #333;
+}
+.ft-ntss {
+    font-family: 'Noto Sans KR', sans-serif;
 }
 a {color: inherit; text-decoration: none;}
 
@@ -211,8 +214,8 @@ img {max-width: 100%;}
 .section .content .box-1 .row-p-1 {margin-top: 80px; color: #c7c7c7; letter-spacing: 5px;}
 .section .content .box-1 .row-p-2 {font-size: 40px; font-weight: 700; margin-top: 5px;}
 .section .content .box-1 .row-p-3 {margin-top: 35px; max-width: 400px; line-height: 1.4;}
-/*.section .content .box-1 .row-p-3 {font-family: 'Noto Sans KR', sans-serif;}*/
-.section .content .box-1 .row-p-3 {font-family: 'NanumSquare', sans-serif;}
+.section .content .box-1 .row-p-3 {font-family: 'Noto Sans KR', sans-serif; font-weight: 300;}
+/* .section .content .box-1 .row-p-3 {font-family: 'NanumSquare', sans-serif;} */
 .section .content .box-1 .row-p-4 {margin-top: 40px;}
 .section .content .box-1 .sign {width: 120px; width: 150px;
     -webkit-transform: skew(-5deg,4deg); -ms-transform: skew(-5deg,4deg); transform: skew(-5deg,4deg);
