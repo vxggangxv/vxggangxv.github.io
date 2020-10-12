@@ -50,6 +50,6 @@
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
     "deploy": "gh-pages -d public",
-    "predeploy": "npm run build"
+    "predeploy": "gatsby build --prefix-paths"
   }
 }
