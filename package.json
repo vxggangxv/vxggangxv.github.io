@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "dev-coder-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A Jun Coder blog demonstrating what developer can do.",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Hyejun Kang <toxnsldxn@gmail.com>",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
@@ -32,17 +32,17 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "prettier": "2.1.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://vxggangxv.github.io/",
   "keywords": [
     "gatsby"
   ],
-  "license": "0BSD",
-  "main": "n/a",
+  "license": "none",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/vxggangxv/vxggangxv.github.io.git"
   },
   "scripts": {
     "build": "gatsby build",
@@ -51,6 +51,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
   }
 }
