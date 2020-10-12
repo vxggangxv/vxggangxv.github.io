@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Dev Coder Blog`,
+    title: `Dev.JCoder Blog`,
     author: {
       name: `Hyejun Kang`,
       summary: `who lives and works in Seoul developing creative Web, App.`,
