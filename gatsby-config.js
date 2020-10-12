@@ -1,5 +1,4 @@
 module.exports = {
-  pathPrefix: `/vxggangxv`,
   siteMetadata: {
     title: `Dev Coder Blog`,
     author: {
@@ -7,7 +6,7 @@ module.exports = {
       summary: `who lives and works in Seoul developing creative Web, App.`,
     },
     description: `A Jun Coder blog demonstrating what developer can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    siteUrl: `https://vxggangxv.github.io`,
     // social: {
     //   twitter: ``,
     // },
@@ -59,7 +58,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-148756160-1`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        // something todo
       },
     },
     `gatsby-plugin-feed`,
