@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dev.JCoder Blog]]></title><description><![CDATA[A Jun Coder blog demonstrating what developer can do.]]></description><link>https://vxggangxv.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 12 Oct 2020 09:56:20 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dev.JCoder Blog]]></title><description><![CDATA[A Jun Coder blog demonstrating what developer can do.]]></description><link>https://vxggangxv.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 16 Oct 2020 08:46:37 GMT</lastBuildDate><item><title><![CDATA[새 글]]></title><description><![CDATA[새 글 테스트입니다.]]></description><link>https://vxggangxv.github.io/new-post/</link><guid isPermaLink="false">https://vxggangxv.github.io/new-post/</guid><pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;새 글 테스트입니다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://vxggangxv.github.io/new-beginnings/</link><guid isPermaLink="false">https://vxggangxv.github.io/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
 Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
 right at the coast of the Semantics, a large language ocean. A small river named
@@ -91,13 +91,8 @@ would be the word “and” and the Little Blind Text should turn around and ret
 to its own, safe country. But nothing the copy said could convince her and so it
 didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
 with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://vxggangxv.github.io/my-second-post/</link><guid isPermaLink="false">https://vxggangxv.github.io/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://vxggangxv.github.io/hello-world/</link><guid isPermaLink="false">https://vxggangxv.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
+for their projects again and again.&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://vxggangxv.github.io/hello-world/</link><guid isPermaLink="false">https://vxggangxv.github.io/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
 &lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
 &lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
@@ -112,31 +107,28 @@ firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 512px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg&quot;
+    href=&quot;/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75.31645569620254%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsSAAALEgHS3X78AAAD2ElEQVQ4y3WUbUyVZRjHH9v64Ae/9KnWh7JMICUB4WCr2awvrXIuajnidDjA4YCIln2w3HpdzXTqED3vvpyDcBhM5lQ2I3RDBPIFN4lkB1NHO9nKTVoygRP381xX1/+G53gsfLZr9/3cL7/7uq//dd2Gd2XYwFddEDKk/wj6nrzgo7WOyHsbig+01RZFxmROiZk1RZGkjHXIXJn8L8Ra7LEZdovOgvqXDtn9dbIhUVsQ5YrsCLuW+tmTF2JPfohdWX52Z0W4Nj/KsuamrC01jPuMNDUDtn2jI8bunBBvXn1Yte7oUz8PJK1b18fp1o1xGjn/G7Xv+VFtWRNT7uwg1zuOsLcw3JgBNdLXBGxzcZzLc3xm9MsecyaliJkJsMHuG3Sp6zolr93RY5Zpcfy7PrP8eZ+qL2rhmsKwby5saS/XwTPAOiOXLdnEV3rG6LO320g2sXPpPm2uHB9vW9tKF079AjD3tF8l2avmPHUaGQIkcE14hoUngoNU9tw+di/z43QWMWZN+hXL/Vz6zF4+2nCeLIv4i3fazarcMOaSAl9kQE0IUP/yIfXPtKKh3l/JKTDvHEgWPWAYk6uJUEH+5I0WQgsvNxY1ofUYSA2oKScqxGfbW3GCZ3KQ3pgJs/+112KVLwTQkg2U+U4DeVaeHeDY12cRO+pu/knHSkMK70My26oVQW3wTloSszYUHsb8CJRRuMb6pxuodWe/Dvbp+DC7svfPC4VnklJp+2hNjD58JUo1K/WNJg1JWLPuxYMc2tpNZUsaqWX7OZ4PCpBbBPm8pI0nxqc4NTXDkxMpnrybotHB36k6X4dl2kA5oQKQtP0nRqnk8V0c39H3PyhugWtueTXGHY0X+Lj/EuLO9/6eprGrt62q5ToLEhClA6IIRIvyQ9MQvfvknvmh4iXi9oH8ly7eyxJ/NpVFneHLJhgi5PdIGydq8+PXmtTEX1NsC/MwKNSvW3WAJTzc2zGiY/7pm3FVk6fruw6iLEShozZFFJ3YD4WK+pW5AZ3Ysa96NOyY76LpygrA2z+E9ZhdeqUoHwm6OtM6TDa0q2mIS57YzbZQOEQU5bNHZz0bODlKFbmBmU2OZgjntWGzj4O8GpscLRratmvAvHc3paH9xxP0/rONJJ7qh2HO+Nj+i+YsLI7YRtNPWHVB2H59DLwa8LRcrr/19WaF6rk5/Kd15JteWv9UAzV/22t1xa6YmMM14ZkN+++buCBj0CkxTUIoKId0qCs+qBWtXBbWY1oAiZms9c4DC6UfR3uwOj+0SKAeSalO8WBE/ieRtJKLCaQG1LQFwB57Hxj/ArBIciPImsACAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Chinese Salty Egg&quot;
         title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/ff44c/salty_egg.jpg 158w,
-/static/8058f3f26913fea3b6a89a73344fe94a/a6688/salty_egg.jpg 315w,
-/static/8058f3f26913fea3b6a89a73344fe94a/828fb/salty_egg.jpg 630w,
-/static/8058f3f26913fea3b6a89a73344fe94a/0ede0/salty_egg.jpg 945w,
-/static/8058f3f26913fea3b6a89a73344fe94a/3ac88/salty_egg.jpg 1260w,
-/static/8058f3f26913fea3b6a89a73344fe94a/e1596/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        src=&quot;/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png&quot;
+        srcset=&quot;/static/4a9773549091c227cd2eb82ccd9c5e3a/c26ae/gatsby-icon.png 158w,
+/static/4a9773549091c227cd2eb82ccd9c5e3a/6bdcf/gatsby-icon.png 315w,
+/static/4a9773549091c227cd2eb82ccd9c5e3a/01e7c/gatsby-icon.png 512w&quot;
+        sizes=&quot;(max-width: 512px) 100vw, 512px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
       /&gt;
